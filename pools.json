@@ -1,0 +1,30 @@
+[
+  {
+    "poolName": "Bitfly",
+    "url": "https://kryfios.flypool.org/",
+    "searchStrings": [
+      "/flypool/"
+    ]
+  },
+  {
+    "poolName": "NaN",
+    "url": "",
+    "searchStrings": [
+      "/NaN"
+    ]
+  },
+  {
+    "poolName": "Stratum",
+    "url": "",
+    "searchStrings": [
+      "/nodeStratum/"
+    ]
+  },
+  {
+    "poolName": "Zmine",
+    "url": "https://zmine.io/",
+    "searchStrings": [
+      "{ZMINE.IO}"
+    ]
+  }
+]
